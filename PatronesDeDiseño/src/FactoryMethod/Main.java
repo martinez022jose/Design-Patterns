@@ -5,7 +5,9 @@
  */
 package FactoryMethod;
 
-/**
+/**Factory Method permite la creación de un subtipo determinado por medio de una clase de Factoría, 
+ * la cual oculta los detalles de creación del objeto.
+ * La intención del Factory Method es tener una clase a la cual delegar la responsabilidad de la creación de los objetos
  *
  * @author Jose
  */
